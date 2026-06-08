@@ -1,0 +1,13 @@
+[0.00s - 4.00s]  Hello. What's your name?
+[4.00s - 8.00s]  My name is David. What is yours?
+[8.00s - 12.00s]  I'm Sarah. Please to meet you, David.
+[12.00s - 17.00s]  Nice to meet you too, Sarah. Where are you from?
+[17.00s - 20.00s]  I'm from Austin.
+[20.00s - 24.00s]  That is awesome. I really like Austin.
+[24.00s - 27.00s]  I'm from Los Angeles.
+[27.00s - 30.00s]  Have you met my friend Alex over there?
+[30.00s - 33.00s]  He is also from Los Angeles.
+[33.00s - 38.00s]  Yes, I have. We talked briefly earlier.
+[38.00s - 41.00s]  I have to get going now.
+[41.00s - 44.00s]  It was a pleasure meeting you, David.
+[44.00s - 48.00s]  Of course. See you later.
